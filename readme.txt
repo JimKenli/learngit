@@ -7,4 +7,4 @@ Git is cc
 Git is d
 Creating a new branch is quick
 branch A A
-branch B CC
+a conflict
